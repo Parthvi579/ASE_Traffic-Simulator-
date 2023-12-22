@@ -23,5 +23,4 @@ public class SimulationController {
 			System.exit(0);
 		}
 	}
-
 }
