@@ -21,7 +21,6 @@ public class GUITraffic extends JFrame implements Observer, Runnable
 {
     private Intersection intersection ;
 
-	
     private JTextField carbonEmissions ;
     private JTextArea vehicleTable;
     private JScrollPane scrollListvehicle;
