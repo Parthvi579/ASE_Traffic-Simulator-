@@ -20,6 +20,6 @@ public class TrafficSimulator {
 		ArrivalProcess ap = new ArrivalProcess(model) ;
 		Thread th1 = new Thread(ap) ;
 		th1.start();
-	
+
 	}
 }
